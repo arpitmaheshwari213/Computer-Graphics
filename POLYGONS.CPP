@@ -60,7 +60,6 @@ void main(){
 int gd=DETECT,gm;
 initgraph(&gd,&gm,"C:\\tc\\bgi");
 Point polygon[]={{50,100},{100,50},{150,100},{100,150},{120,70},{100,90}};
- clrscr();
  int n=sizeof(polygon)/sizeof(polygon[0]);
  fillPoly(polygon,n);
 getch();
