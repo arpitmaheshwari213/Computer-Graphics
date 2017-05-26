@@ -43,7 +43,7 @@ void main(){
 int gd=DETECT,gm;
 initgraph(&gd,&gm,"C:\\tc\\bgi");
 Point polygon[]={{100,100},{100,200},{200,200},{200,100}},p={200,200};
- clrscr();
+
  int n=sizeof(polygon)/sizeof(polygon[0]);
  int j=isInside(polygon,n,p);
 // drawPoly(polygon,n);
