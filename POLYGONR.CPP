@@ -51,7 +51,6 @@ int polygonRelation(Point poly1[],int n1,Point poly2[],int n2)
 }
 void main()
 {Point polygon1[]={{100,100},{200,100},{200,200},{100,200}},polygon2[]={{50,250},{250,50},{250,250},{50,250}};
- clrscr();
  int n1=sizeof(polygon1)/sizeof(polygon1[0]);
  int n2=sizeof(polygon2)/sizeof(polygon2[0]);
  int j=polygonRelation(polygon1,n1,polygon2,n2);
