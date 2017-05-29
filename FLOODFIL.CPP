@@ -44,10 +44,10 @@ void main()
 int gd=DETECT,gm;
 initgraph(&gd,&gm,"C:\\TC\\BGI");
 Point polygon[]={{100,100},{100,150},{150,150},{150,80},{170,80},{170,100}},seed={101,101};
- clrscr();
+ 
  int n=sizeof(polygon)/sizeof(polygon[0]);
  drawPoly(polygon,n);
- int oldcolor=getpixel(101,101);
+ int oldcolor=getpixel(seed.x,seed.y);
  putpixel(150,100,oldcolor);    //for testing flood fill 4 and 8
  putpixel(151,101,BLUE);     //second small semi-polygon not fill in 4connected
  putpixel(149,99,BLUE);      //  get filled in 8 connected method
