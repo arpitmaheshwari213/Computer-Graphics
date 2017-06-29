@@ -15,3 +15,6 @@ Assignment 2:-Q.1 POLYGONP.CPP
               Q.7 LINECLIP.CPP
               Q.8 TRANSFOR.CPP
               
+References :-
+1.Computer Graphics by Donald D.Hearn and M. Pauline Baker
+2.Assignment 2 Q.7 from http://www.geeksforgeeks.org/line-clipping-set-1-cohen-sutherland-algorithm/
