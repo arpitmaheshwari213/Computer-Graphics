@@ -1,20 +1,30 @@
 # Computer-Graphics
-Assignment 1:-Q.1 FIGURES.CPP
-              Q.2 LINE.CPP AND LINE3.CPP
-              Q.3 LINE2.CPP
-              Q.4 GRAPH.CPP AND GRAPH2.CPP
-              Q.5 CIRCLE2.CPP
-              Q.6 WHEEL.CPP
+This repository is helping me to keep a regular check on my computer graphics assignments.
+It contains solutions in C++ for various computer graphics based algorithms including DDA,Bresenham algorithm, basic geometry and graphs drawing algorithms, scanline fill, boundary fill and flood fill algorithms.
+
+Assignment questions can be found in the file named Assignment.pdf
+Solutions for Assignment 1:-
+
+1. FIGURES.CPP 
+2. LINE.CPP AND LINE3.CPP 
+3. LINE2.CPP
+4. GRAPH.CPP AND GRAPH2.CPP
+5. CIRCLE2.CPP
+6. WHEEL.CPP
               
-Assignment 2:-Q.1 POLYGONP.CPP
-              Q.2 POLYGONR.CPP
-              Q.3 POLYGONS.CPP
-              Q.4 BOUNDARY.CPP
-              Q.5 FLOODFIL.CPP
-              Q.6 CLIPPING.CPP
-              Q.7 LINECLIP.CPP
-              Q.8 TRANSFOR.CPP
+Solutions for Assignment 2:-
+
+1. POLYGONP.CPP
+2. POLYGONR.CPP
+3. POLYGONS.CPP
+4. BOUNDARY.CPP
+5. FLOODFIL.CPP
+6. CLIPPING.CPP
+7. LINECLIP.CPP
+8. TRANSFOR.CPP
               
 References :-
+
 1.Computer Graphics by Donald D.Hearn and M. Pauline Baker
+
 2.Assignment 2 Q.7 from http://www.geeksforgeeks.org/line-clipping-set-1-cohen-sutherland-algorithm/
