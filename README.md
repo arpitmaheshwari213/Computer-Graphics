@@ -2,7 +2,8 @@
 This repository is helping me to keep a regular check on my computer graphics assignments.
 It contains solutions in C++ for various computer graphics based algorithms including DDA,Bresenham algorithm, basic geometry and graphs drawing algorithms, scanline fill, boundary fill and flood fill algorithms.
 
-Assignment questions can be found in the file named Assignment.pdf
+Assignment questions can be found in the file named [Assignment.pdf](https://github.com/arpitmaheshwari213/Computer-Graphics/blob/master/Assignment.pdf)
+
 Solutions for Assignment 1:-
 
 1. FIGURES.CPP 
